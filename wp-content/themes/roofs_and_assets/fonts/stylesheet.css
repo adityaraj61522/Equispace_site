@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Silver South';
+    src: url('SilverSouthRegular.html') format('woff2'),
+        url('SilverSouthRegular-2.html') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
