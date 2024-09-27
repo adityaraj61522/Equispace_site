@@ -18,7 +18,7 @@ body {
     -moz-font-feature-settings: 'kern';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: #0f0f0f;
+    background-color: #001027;
     position: inherit !important;
 }
 
@@ -186,7 +186,7 @@ p {
 
 .pxp-section-h2 {
     font-weight: 400;
-    font-family: "SilverSouthScript";
+    font-family: "Quicksand";
     font-size: 2.8rem;
     line-height: 70px;
 }
@@ -682,7 +682,7 @@ h1.pxp-page-header {
 }
 
 .pxp-header.pxp-is-sticky {
-    background-color: #000;
+    background-color: #001027;
     padding: 10px 0;
     box-shadow: 0px 15px 30px rgba(255, 255, 255, 0.10);
 }
@@ -693,7 +693,7 @@ h1.pxp-page-header {
 }
 
 .pxp-dark-mode .pxp-header.pxp-is-sticky {
-    background-color: #000;
+    background-color: #001027;
 }
 
 .pxp-header.pxp-full {
@@ -703,7 +703,7 @@ h1.pxp-page-header {
 }
 
 .pxp-dark-mode .pxp-header.pxp-full {
-    background-color: #000;
+    background-color: #001027;
 }
 
 .pxp-header .pxp-container-full {
@@ -736,11 +736,11 @@ h1.pxp-page-header {
 }
 
 .inner-page.fixed-top.pxp-is-sticky {
-    background: #000;
+    background: #001027;
 }
 
 .pxp-dark-mode .pxp-header.pxp-mobile:after {
-    background: #000;
+    background: #001027;
 }
 
 .pxp-header.pxp-full.pxp-mobile:after {
@@ -7171,11 +7171,11 @@ a.pxp-services-tabs-content-item:hover .pxp-services-tabs-content-item-cta {
  */
 
 .pxp-footer {
-    background-color: #000;
+    background-color: #001027;
 }
 
 .pxp-dark-mode .pxp-footer {
-    background-color: #000;
+    background-color: #001027;
 }
 
 .pxp-footer-logo {
