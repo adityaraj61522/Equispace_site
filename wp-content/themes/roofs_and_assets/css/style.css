@@ -186,9 +186,13 @@ p {
 
 .pxp-section-h2 {
     font-weight: 400;
-    font-family: "Quicksand";
+    font-family: 'Quicksand', sans-serif;
+    color: #fff;
+    -moz-font-feature-settings: 'kern';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    position: inherit !important;
     font-size: 2.8rem;
-    line-height: 70px;
 }
 
 .pxp-section-h2 img {
@@ -2427,9 +2431,9 @@ a.pxp-areas-carousel-item:hover {
     right: 0;
     bottom: 0;
     left: 0;
-    -webkit-transition: all .6s ease-in-out;
-    -o-transition: all .6s ease-in-out;
-    transition: all .6s ease-in-out;
+    -webkit-transition: all .1s ease-in-out;
+    -o-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
     transform: scale(1.01, 1.01);
 }
 
@@ -2512,8 +2516,8 @@ a.pxp-areas-carousel-item:hover .pxp-areas-carousel-item-fig {
 
 .pxp-areas-carousel-item:hover .pxp-areas-carousel-item-counter>span {
     opacity: 1;
-    -webkit-transition-delay: 0.6s;
-    transition-delay: 0.6s;
+    -webkit-transition-delay: 0.1s;
+    transition-delay: 0.1s;
 }
 
 .pxp-areas-carousel-left-arrow,
@@ -5248,8 +5252,8 @@ hr {
  */
 
 .pxp-blog-posts {
-    padding-top: 82px;
-    padding-bottom: 150px;
+    padding-top: 20px;
+    padding-bottom: 50px;
 }
 
 .pxp-blog-posts-carousel-1 {
